@@ -1,0 +1,5 @@
+INFO: Waiting for solution ...
+INFO: Step 001 - from (5, 6) to (0, 6) ; cost 5
+INFO: Step 002 - from (2, 2) to (2, 6) ; cost 4
+INFO: Path length is 2 steps.
+INFO: Path cost is 9 units.
